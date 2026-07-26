@@ -1,6 +1,6 @@
 {
   "name": "fast-fnv1a",
-  "version": "0.0.0",
+  "version": "1.0.0-beta.1",
   "description": "An extremely fast 32-bit FNV-1a hash implementation for JavaScript, up to 6x faster than alternatives.",
   "repository": {
     "type": "git",
